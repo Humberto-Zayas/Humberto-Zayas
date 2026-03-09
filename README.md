@@ -28,12 +28,6 @@ Currently diving deep into **React Native** and **Swift**.
 
 ---
 
-## 📊 GitHub Stats
-
-![Humberto's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Humberto-Zayas&show_icons=true&theme=default&hide_border=true)
-
----
-
 ## 🔗 Connect
 
 - 🌐 [zayascreative.com](https://zayascreative.com/)
